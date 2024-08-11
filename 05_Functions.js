@@ -81,6 +81,7 @@ console.log(composition(double, addTwo, 5));
 
 
 //Feature Request
+//(same as above)
 
 //1- Even or odd function script
 //2- Square calculation function script
